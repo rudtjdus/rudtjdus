@@ -1,4 +1,4 @@
-## ![header](https://capsule-render.vercel.app/api?type=slice&color=white&height=200&section=footer&text=Seoyeon's%20Github&fontSize=100)
+## ![header](https://capsule-render.vercel.app/api?type=cylinder&color=gradient&height=200&section=footer&text=Seoyeon's%20Github&fontSize=100)
 
 <!--
 **rudtjdus/rudtjdus** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
